@@ -3,7 +3,7 @@ wangduo's homework of CS106B
   * student: wangduo
   * teacher:xuehao
 ## contents
-### assign_0 学习使用IDE调试
+### assign_0 学习使用IDE调试https://github.com/wdduke/wangduoS_CS106B_ASSIGN/tree/main/assign0
 #### 学习内容
   * 安装Qt creator
   * 获取自己名字的hashvalue
