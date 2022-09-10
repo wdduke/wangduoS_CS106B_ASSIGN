@@ -20,7 +20,8 @@ wangduo's homework of CS106B
 #### 作业内容
   * 
   * 
-  ### assign_2
+---
+### assign_2
 #### 学习内容
   * 
   * 
@@ -28,7 +29,8 @@ wangduo's homework of CS106B
 #### 作业内容
   * 
   * 
-  ### assign_3 
+---
+### assign_3 
 #### 学习内容
   * 
   * 
