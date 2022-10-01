@@ -12,7 +12,7 @@ wangduo's homework of CS106B
   * 自己名字的hashvalue截图
   * 调试中的一个中间值hashvalue截图
 ---
-### assign_1 
+### assign_1 c++ 基础、函数的使用
 #### 学习内容
   * 
   * 
