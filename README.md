@@ -1,5 +1,5 @@
 # wangduo_Stanfrod-cpp-lectures_ASSIGN
-wangduo's homework of CS106B 
+wangduo's homework of Stanfrod cpp lectures
   * student: wangduo
   * teacher:xuehao
 ## contents
