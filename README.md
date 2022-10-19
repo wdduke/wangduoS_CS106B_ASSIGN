@@ -32,7 +32,7 @@ wangduo's homework of Stanfrod cpp lectures
   * 完美数
   * 姓氏编码检索程序
 ---
-### assign_2 抽象数据类型
+### assign_2 抽象数据类型 https://github.com/wdduke/wangduoS_CS106B_ASSIGN/tree/cpp_study/assign2
 #### 学习内容
   * vector
   * set
