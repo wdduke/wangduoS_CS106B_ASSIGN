@@ -42,7 +42,8 @@ wangduo's homework of Stanfrod cpp lectures
   * 迷宫maze
   * 搜索引擎search
 ---
-### assign_3.1 递归基础:子集问题 https://github.com/wdduke/wangduoS_CSE-CS101_ASSIGN/tree/cpp_study/assign3
+### assign_3.1 递归基础：子集问题 
+https://github.com/wdduke/wangduoS_CSE-CS101_ASSIGN/tree/cpp_study/assign3
 #### 学习内容
   * 递归概念
   * 解决递归问题的步骤
