@@ -42,11 +42,13 @@ wangduo's homework of Stanfrod cpp lectures
   * 迷宫maze
   * 搜索引擎search
 ---
-### assign_3 
+### assign_3 递归基础：子集问题
 #### 学习内容
-  * 
-  * 
-  * 
+  * 递归概念
+  * 解决递归问题的步骤
+  * 求子集问题：迭代与递归方法
+  * 标签的使用：区分版本
+
 #### 作业内容
   * 
   * 
