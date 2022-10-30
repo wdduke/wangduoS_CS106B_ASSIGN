@@ -42,7 +42,7 @@ wangduo's homework of Stanfrod cpp lectures
   * 迷宫maze
   * 搜索引擎search
 ---
-### assign_3 递归基础：子集问题
+### assign_3 递归基础：子集问题 https://github.com/wdduke/wangduoS_CSE-CS101_ASSIGN/tree/cpp_study/assign3
 #### 学习内容
   * 递归概念
   * 解决递归问题的步骤
@@ -50,5 +50,7 @@ wangduo's homework of Stanfrod cpp lectures
   * 标签的使用：区分版本
 
 #### 作业内容
-  * 
-  * 
+  * 递归基础：测试与调试
+  * 符号配对
+  * sierpinski分形
+  * 合并有序序列：两路归并到多路归并
