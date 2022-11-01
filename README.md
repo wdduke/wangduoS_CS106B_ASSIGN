@@ -3,7 +3,7 @@ wangduo's homework of Stanfrod cpp lectures
   * student: wangduo
   * teacher: xuehao
 ## contents
-### assign_0 学习使用IDE调试https://github.com/wdduke/wangduoS_CS106B_ASSIGN/tree/main/assign0
+### assign_0 学习使用IDE调试https://github.com/wdduke/wangduoS_CSE-CS101_ASSIGN/tree/cpp_study/assign0
 #### 学习内容
   * 安装Qt creator
   * 获取自己名字的hashvalue
