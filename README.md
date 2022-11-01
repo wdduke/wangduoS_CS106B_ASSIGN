@@ -1,4 +1,4 @@
-# wangduo_Stanfrod-cpp-lectures_ASSIGN
+# wangduo_Stanford-cpp-lectures_ASSIGN
 wangduo's homework of Stanfrod cpp lectures
   * student: wangduo
   * teacher: xuehao
