@@ -58,3 +58,17 @@ https://github.com/wdduke/wangduoS_CSE-CS101_ASSIGN/tree/cpp_study/assign3.1
   * 符号配对
   * sierpinski分形
   * 合并有序序列：两路归并到多路归并
+---
+### assign_3.2 递归排列问题 
+
+#### 学习内容
+  * 
+  * 
+  * 
+  * 
+
+#### 作业内容
+  * 
+  * 
+  * 
+  * 
